@@ -13,10 +13,10 @@ Harvex - это проект для совместного просмотра к
 
 
 Стек технологий:
-- Java 17, OpenJDK by Oracle
+- Java 17
 - Spring v. 3.0.4
 - Миграции БД: Flyway
-- Формат конфигов: YAML
+- Формат конфигов: .yml
 - Формат передачи данных в REST: JSON
 - Lombok
 - WebSocket
