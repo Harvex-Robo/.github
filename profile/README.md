@@ -24,5 +24,5 @@ Harvex - это проект для совместного просмотра к
 Блок-схема проекта:
 ![Harvex structure](https://user-images.githubusercontent.com/98740924/222722924-e5e59d74-96cb-4283-b728-896a85fa241b.jpeg)
 
-Предварительная схема БД проекта (подлежит доработке):
+Схема БД проекта:
 ![DB_Diagram_HarvexDB](https://user-images.githubusercontent.com/98740924/223864882-772b0c69-2553-4785-afdc-df78fc78cd47.png)
